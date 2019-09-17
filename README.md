@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+The automated parallax software allows us to calculate several parameters of the trajectory of a meteor using two video sources. Even though the results can vary remarkably depending on the selection method of the brightness area plot and the selection of the position of the meteor, we can ensure that our software commits an error of $\pm$5km in our example starting off the inputs that we, as users, provide to it. 
 
-You can use the [editor on GitHub](https://github.com/PatrissTV/PerseidasPy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+It is easy to manage and allows us to calculate trajectories very fast and completely autonomously, given a certain input of positions, images and brightness area plots.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This software can also be used for bolid or plane tracking, as well as other visible objects that travel through our atmosphere. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PatrissTV/PerseidasPy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Patrick Benito, Automated parallax software for meteor analysis, 2019
